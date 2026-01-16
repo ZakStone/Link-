@@ -1,0 +1,19 @@
+{
+  "expo": {
+    "name": "Link Marketplace",
+    "slug": "link-marketplace",
+    "version": "0.1.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "assetBundlePatterns": ["**/*"],
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.link.marketplace"
+    },
+    "web": {
+      "bundler": "metro"
+    }
+  }
+}
